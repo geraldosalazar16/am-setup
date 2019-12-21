@@ -1,0 +1,15 @@
+.menu a{
+  color: rgb(122, 122, 122);
+  text-decoration: none;
+  padding: 0px 5px 0px 5px;
+}
+.menu a:hover{
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.92);
+}
+.menu a.active{
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+
